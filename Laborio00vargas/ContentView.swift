@@ -23,7 +23,7 @@ struct ContentView: View {
                 Text("Versión MANUAL - Hecha sin IA")
                     .font(.headline)
                     .foregroundColor(.blue)
-                Text("Versión CON IA - Asistida por Claude")
+                Text("Versión CON IA - Asistida por ClaudO")
                     .font(.headline)
                     .foregroundColor(.green)
             }
